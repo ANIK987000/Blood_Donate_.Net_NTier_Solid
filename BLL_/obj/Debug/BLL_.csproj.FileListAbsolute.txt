@@ -1,0 +1,14 @@
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\BLL_.dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\BLL_.pdb
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\AutoMapper.dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\DAL.dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\EntityFramework.dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\DAL.pdb
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\DAL.dll.config
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\AutoMapper.xml
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\bin\Debug\EntityFramework.xml
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\obj\Debug\BLL_.csproj.AssemblyReference.cache
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\obj\Debug\BLL_.csproj.CoreCompileInputs.cache
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\obj\Debug\BLL_.csproj.CopyComplete
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\obj\Debug\BLL_.dll
+E:\Advanced Programming With .Net\Final\N Tier Architecture\WebApplication_Blood_Donate_N_Tier_Solid\BLL_\obj\Debug\BLL_.pdb
